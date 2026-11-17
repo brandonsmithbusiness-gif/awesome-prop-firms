@@ -207,6 +207,7 @@ Discount codes change often. Check a code's terms on the firm's own checkout bef
 ### Rules, risk and calendars
 
 - [Babypips Position Size Calculator](https://www.babypips.com/tools/position-size-calculator) - Calculator for position size from account balance, risk percentage and stop-loss distance.
+- [Burnless](https://www.getburnless.com/) - Futures prop firm calculator that simulates evaluations and payouts under each firm's rules, plus a tracker for funded accounts.
 - [Forex Factory Calendar](https://www.forexfactory.com/calendar) - Forex-focused economic calendar of scheduled market-moving events, for planning around news-trading rules.
 - [Maximum drawdown on Investopedia](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp) - Explainer of maximum drawdown and how it is calculated.
 
